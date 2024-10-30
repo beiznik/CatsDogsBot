@@ -1,0 +1,2 @@
+ydb
+pyTelegramBotAPI == 4.23.0
